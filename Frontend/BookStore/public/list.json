@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "tittle": "Lorem, ipsem dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Book",
+        "tittle": "Exploring unknown realms with fascinating stories.",
+        "price": 10,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Science Book",
+        "tittle": "Dive into the world of science and discoveries.",
+        "price": 15,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    },
+    {
+        "id": 4,
+        "name": "History Book",
+        "tittle": "A comprehensive guide to historical events and figures.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Book",
+        "tittle": "Enter a world of magic and mystical creatures.",
+        "price": 12,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Cooking Book",
+        "tittle": "Discover delicious recipes from around the world.",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Art Book",
+        "tittle": "An artistic journey through various masterpieces.",
+        "price": 18,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722888202~exp=1722891802~hmac=e8912b579ed41d8168ab9480012c3c29199977697d7d9d5924274d3d58979d9a&w=740"
+    }
+]
